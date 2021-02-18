@@ -1,1 +1,5 @@
+
+voidmain()
+{
 printf("hello..");
+}
